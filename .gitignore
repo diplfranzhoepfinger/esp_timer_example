@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+Application/managed_components/
